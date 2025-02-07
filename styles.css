@@ -2,8 +2,8 @@ body {
     margin: 0;
     padding: 0;
 }
-.table2 tr {
-    margin-bottom: 20px;
+.table2 {
+    border-spacing: 0 20px; 
 }
 .box1 {
     background-color: darkred;
